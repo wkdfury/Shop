@@ -1,0 +1,13 @@
+.banner{
+    background-color: darkslateblue;
+    width :100%;
+    height :100px;
+    margin-bottom:50px;
+}
+.bannert
+{
+   color :white;
+   position :absolute;
+   left :45%;
+   top :5%;
+}
